@@ -1,0 +1,16 @@
+Git Commands:
+- [ ] git init
+- [ ] git add file.ext
+- [ ] git commit -m "message"
+- [ ] git log
+- [ ] clear
+- [ ] git status
+- [ ] git branch
+- [ ] git checkout feature/cart
+- [ ] 'q' to quit terminal messages
+- [ ] touch filename.ext to create a file
+- [ ] git merge feature/cart
+- [ ] git branch -d feature/cart
+- [ ] git remote add origin https://github.com/jmxavier1/aula_git.git
+- [ ] git remote -v
+- [ ] git push -u origin master
