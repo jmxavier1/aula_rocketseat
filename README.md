@@ -15,3 +15,4 @@ Git Commands:
 - [x] git remote -v
 - [x] git push -u origin master- [x] git push -u origin master
 - [x] git clone
+- [x] git pull
