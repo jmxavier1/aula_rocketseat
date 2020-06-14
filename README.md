@@ -13,6 +13,6 @@ Git Commands:
 - [x] git branch -d feature/cart
 - [x] git remote add origin https://github.com/jmxavier1/aula_git.git
 - [x] git remote -v
-- [x] git push -u origin master- [x] git push -u origin master
+- [x] git push -u origin master
 - [x] git clone
-- [x] git pull# aula_rocketseat
+- [x] git pull # aula_rocketseat
